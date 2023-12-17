@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 data/exercise_1
+data/fashion-mnist_test.csv
+data/fashion-mnist_train.csv
 
 # Distribution / packaging
 .Python
